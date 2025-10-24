@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Streaming analytics and Fraud Detection
 
 ## Project info
 
