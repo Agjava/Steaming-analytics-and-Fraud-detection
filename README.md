@@ -2,6 +2,9 @@
 
 ## Project info
 
+<img width="1154" height="785" alt="Screenshot 2025-10-24 at 8 32 05 AM" src="https://github.com/user-attachments/assets/d4cff72a-2b75-446d-bc18-600a01f8f77a" />
+
+
 **URL**: https://lovable.dev/projects/17f80553-3ff5-4e70-8a81-a4b286b5c1e3
 
 ## How can I edit this code?
