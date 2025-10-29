@@ -7,9 +7,12 @@
 
 **URL**: https://lovable.dev/projects/17f80553-3ff5-4e70-8a81-a4b286b5c1e3
 
-## How can I edit this code?
+The "Fraud" Detection
+The fraud detection here is rule-based (simple but effective for demonstration):
 
-There are several ways of editing your application.
+Impossible Score Gains: Scores > 45 in a single event indicate potential cheating/exploits
+Kill Rate Anomalies: Flagged at 2% probability to simulate detection of aim-bots or auto-kill hacks
+Win Rate Anomalies: Excessive wins suggest match-fixing or exploitation
 
 **Use Lovable**
 
@@ -63,14 +66,4 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/17f80553-3ff5-4e70-8a81-a4b286b5c1e3) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
