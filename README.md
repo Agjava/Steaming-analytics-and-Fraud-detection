@@ -28,3 +28,20 @@ This project is built with:
 - Tailwind CSS
 
 
+## Tech Stack Architecture
+Frontend Framework:
+
+React 18.3.1 with TypeScript - Type-safe component architecture
+Vite - Lightning-fast dev server with HMR (Hot Module Replacement)
+Tailwind CSS - Utility-first styling with custom design tokens
+shadcn/ui - Headless component library built on Radix UI primitives
+State Management:
+
+TanStack Query - Server state management (prepared for future API integration)
+React Hooks - Local state with useState, useEffect, useCallback, useMemo
+Routing & UI:
+
+React Router v6 - Client-side routing
+Lucide React - Icon library
+Sonner - Toast notifications
+
