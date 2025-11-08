@@ -8,6 +8,11 @@
 **URL**: https://lovable.dev/projects/17f80553-3ff5-4e70-8a81-a4b286b5c1e3
 
 
+
+https://github.com/user-attachments/assets/baebe378-a859-4f04-89df-05c35636f8e1
+
+
+
 **Fraud Detection**
 The "Fraud" Detection
 The fraud detection here is rule-based (simple but effective for demonstration):
